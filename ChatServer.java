@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author HD
+ * @author fatema
  */
 public class ChatServer {
     ServerSocket server; 
