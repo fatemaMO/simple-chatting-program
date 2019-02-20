@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author HD
+ * @author fatema
  */
 public class GuiClient extends javax.swing.JFrame {
 PrintStream ps;
